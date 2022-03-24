@@ -12,13 +12,12 @@ html {
 
 body {
   background-color: white;
-  border-size: 2px;
   font-weight: normal;
 }
 
 article > header  {
   font-size: 1.5rem;
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   padding: 1rem;
   margin-right: 1px;
   font-size: 1.125rem;
@@ -28,7 +27,7 @@ article > header  {
 article  {
 padding-left: 1rem;
 padding-right: 1rem;
-: 2px;
+border-size: 2px;
 }
 
 h1 {
@@ -36,7 +35,7 @@ h1 {
 }
 
 header p {
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-style: italic;
   color: #555;
   margin-top: 0px;
@@ -45,30 +44,30 @@ header p {
 }
 
 p {
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-style: normal;
   font-size: 1em;
 }
 
 blockquote > p {
   color: #999;
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-size: 1.125rem;
   padding: 1rem;
 }
 
 p {
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-style: normal;
 }
 
 ol li {
   color: #555;
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-style: normal;
 }
 
 p {
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Text', serif;
   font-style: normal;
 }
