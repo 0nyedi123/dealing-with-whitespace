@@ -14,7 +14,7 @@ body {
   font-weight: normal;
   border-bottom: 2px;
   border-color: #222;
-  margin: 1.3px;
+  margin-top: 0px;
 }
 
 article header {
@@ -37,7 +37,6 @@ article header p {
   font-family: "Crimson Text", serif;
   font-style: italic;
   color: #555;
-  margin-top: 0px;
   border-bottom: 2px solid black;
 }
 
