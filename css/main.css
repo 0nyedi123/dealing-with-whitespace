@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  border-size: 2px;
   font-family: Georgia, serif;
   line-height: 1.5;
 }
@@ -41,7 +40,6 @@ header > p {
   font-style: italic;
   color: #555;
   margin-top: 0px;
-  margin-bottom: 2px;
   border-bottom: 2px solid black;
 }
 
