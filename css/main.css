@@ -12,8 +12,7 @@ html {
 
 body {
   background-color: white;
-  margin: 0px, 0px, 0px, 0px
-  border-size: 1.125rem;
+  ;border-size: 2px;
   font-weight: normal;
 }
 
@@ -46,9 +45,10 @@ header p {
 p {
   font-family: 'Crimson Pro', serif;
   font-style: normal;
+  font-size: 1em;
 }
 
-blockquote p {
+blockquote > p {
   color: #999;
   font-family: 'Crimson Pro', serif;
   font-size: 1.125rem;
