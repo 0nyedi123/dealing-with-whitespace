@@ -18,7 +18,7 @@ body {
   margin: 1.3px;
 }
 
-article > header  {
+article header {
   font-size: 1.5rem;
   font-family: "Crimson Text", serif;
   padding: 1rem;
@@ -26,7 +26,7 @@ article > header  {
 }
 
 
-article  {
+article {
 padding-left: 1rem;
 padding-right: 1rem;
 }
