@@ -14,7 +14,7 @@ body {
   font-weight: normal;
   border-bottom: 2px;
   border-color: #222;
-  margin-left: 1px;
+  margin: 0;
 }
 
 article header {
@@ -27,6 +27,7 @@ article header {
 article {
   padding-left: 1rem;
   padding-right: 1rem;
+  margin-left: 1px;
 }
 
 article h1 {
