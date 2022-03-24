@@ -27,7 +27,7 @@ article header  {
 article > header {
 padding-left: 1rem;
 padding-right: 1rem;
-margin-right: px;
+font-size: 1.125rem;
 }
 
 h1 {
