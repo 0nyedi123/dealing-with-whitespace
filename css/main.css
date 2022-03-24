@@ -9,12 +9,11 @@ html {
   box-sizing: inherit;
 }
 
-body {
+body margin {
   background-color: white;
   font-weight: normal;
   border-bottom: 2px;
   border-color: #222;
-  margin-top: 0px;
 }
 
 article header {
