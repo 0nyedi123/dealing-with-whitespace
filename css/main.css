@@ -12,7 +12,7 @@ html {
 
 body {
   background-color: white;
-  ;border-size: 2px;
+  border-size: 2px;
   font-weight: normal;
 }
 
@@ -22,12 +22,13 @@ article > header  {
   padding: 1rem;
   margin-right: 1px;
   font-size: 1.125rem;
-
 }
+
 
 article  {
 padding-left: 1rem;
 padding-right: 1rem;
+: 2px;
 }
 
 h1 {
@@ -39,7 +40,8 @@ header p {
   font-style: italic;
   color: #555;
   margin-top: 0px;
-
+  border-bottom: 6px;
+  border-color: #222;
 }
 
 p {
@@ -64,7 +66,6 @@ ol li {
   color: #555;
   font-family: 'Crimson Pro', serif;
   font-style: normal;
-
 }
 
 p {
