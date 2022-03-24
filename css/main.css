@@ -10,11 +10,11 @@ html {
 }
 
 body {
-  margin: 0;
   background-color: white;
   font-weight: normal;
   border-bottom: 2px;
   border-color: #222;
+  margin: 0;
 }
 
 article header {
