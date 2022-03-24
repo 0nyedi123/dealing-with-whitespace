@@ -16,18 +16,18 @@ body {
   font-weight: normal;
 }
 
-article header  {
+article > header  {
   font-size: 1.5rem;
   font-family: 'Crimson Pro', serif;
   padding: 1rem;
   margin-right: 1px;
+  font-size: 1.125rem;
 
 }
 
-article > header {
+article  {
 padding-left: 1rem;
 padding-right: 1rem;
-font-size: 1.125rem;
 }
 
 h1 {
