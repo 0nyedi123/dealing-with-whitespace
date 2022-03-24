@@ -12,9 +12,9 @@ html {
 
 body {
   background-color: white;
-  margin-left: 10px;
-  margin-right: 10px
+  margin: 0px, 0px, 0px, 0px
   border-size: 1.125rem;
+  font-weight: normal;
 }
 
 article header  {
