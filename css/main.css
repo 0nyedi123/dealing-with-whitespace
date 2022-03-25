@@ -38,8 +38,8 @@ article header p {
   font-style: italic;
   color: #555;
   border-bottom: 2px solid black;
-  margin-top: 0px;
-  margin-bottom: 1.5px;
+  margin-top: .5px;
+  margin-bottom: 3px;
 }
 
 article p {
