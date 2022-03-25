@@ -12,7 +12,7 @@ html {
 body {
   background-color: white;
   font-weight: normal;
-  margin: 0px;
+  margin: 0;
 }
 
 article header {
@@ -64,9 +64,11 @@ blockquote {
 .quote {
   padding: 1rem;
 }
+
 p {
   margin-top: 0;
 }
+
 article ol {
   color: #222;
   font-family: "Crimson Text", serif;
