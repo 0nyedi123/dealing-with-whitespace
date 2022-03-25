@@ -39,7 +39,7 @@ article header p {
   font-family: "Crimson Text", serif;
   font-style: italic;
   font-size: .7em;
-  color: #555;
+  color: #222;
   border-bottom: 2px solid black;
   margin-top: .5px;
   margin-bottom: 3px;
@@ -50,11 +50,11 @@ article p {
   font-style: normal;
   font-size: 1em;
   border-bottom: 2px;
-  border-color: #222;
+  border-color: #999;
 }
 
 blockquote {
-  color: #999;
+  color: #555;
   font-family: "Crimson Text", serif;
   font-size: 1.125rem;
 }
