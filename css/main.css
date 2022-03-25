@@ -57,7 +57,6 @@ blockquote {
   color: #555;
   font-family: "Crimson Text", serif;
   font-size: 1.125rem;
-
 }
 
 .quote {
@@ -65,7 +64,7 @@ blockquote {
 }
 
 p {
-  margin-bottom: 1.3px;
+  margin-bottom: 1.1px;
 }
 
 article ol {
