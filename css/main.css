@@ -27,6 +27,7 @@ article header {
 article {
   padding-left: 1rem;
   padding-right: 1rem;
+  margin-top: 1rem;
 }
 
 article h1 {
