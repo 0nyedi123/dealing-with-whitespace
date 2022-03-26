@@ -29,6 +29,7 @@ article {
   padding-right: 1rem;
   border-bottom: 2px solid;
   border-color: #999;
+  margin-bottom: 0;
 }
 
 article h1 {
