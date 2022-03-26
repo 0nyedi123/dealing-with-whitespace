@@ -50,7 +50,7 @@ article header p {
 article p {
   font-family: "Crimson Text", serif;
   font-style: normal;
-  font-size: 1.125rem;
+  font-size: 1em;
   border-bottom: 2px;
   border-color: #999;
   margin-top: 8px;
@@ -64,7 +64,6 @@ blockquote {
 
 .quote {
   padding: 1rem;
-
 }
 
 p {
