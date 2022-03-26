@@ -7,11 +7,10 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+  marign: 0;
+  padding: 0;
 }
 
-html body {
-  min-height: 100%;
-}
 
 body {
   background-color: white;
@@ -81,4 +80,5 @@ article ol {
   font-family: "Crimson Text", serif;
   font-style: normal;
   margin-top: 8px;
+  margin-bottom: 10px;
 }
