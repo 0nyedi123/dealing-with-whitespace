@@ -7,8 +7,6 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
-  marign: 0;
-  padding: 0;
 }
 
 
