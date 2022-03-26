@@ -30,8 +30,7 @@ article {
   border-bottom: 2px solid;
   border-color: #999;
   margin-top: 0;
-  padding-bottom: 0;
-
+  padding-bottom: 5px;
 }
 
 article h1 {
