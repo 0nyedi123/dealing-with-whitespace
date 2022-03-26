@@ -30,9 +30,11 @@ article {
   border-color: #999;
 }
 
-article h1 {
+article header h1 {
   margin-bottom: 1px;
-  font-size: .99em;
+  /*font-size: .99em;
+*/
+  font-size: 1em
   font-weight: lighter;
 }
 
