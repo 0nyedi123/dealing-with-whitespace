@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+html body {
+  min-height: 100%;
+}
+
 body {
   background-color: white;
   font-weight: normal;
