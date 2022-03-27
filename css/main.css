@@ -68,6 +68,10 @@ blockquote {
   padding: 1rem;
 }
 
+p {
+  margin-top: 1.5px;
+}
+
 article ol {
   color: #222;
   font-family: "Crimson Text", serif;
